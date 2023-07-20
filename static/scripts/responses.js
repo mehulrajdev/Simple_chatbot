@@ -13,13 +13,13 @@ function getBotResponse(input) {
     } else if (input == "goodbye") {
         return "Talk to you later!";
     } else if (input == "hi") {
-        return "What's you name!";
+        return "What's your name!";
     } else if (input == "Who are you"){
         return "I'm a bot";
     }
 
     else {
-        return "Type rock,paper or scissors";
+        return "Type rock, paper or scissors";
     }
 
 }

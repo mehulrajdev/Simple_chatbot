@@ -1,3 +1,3 @@
 ﻿# Simple  chatbot
 
-Ease
+Easy to use
